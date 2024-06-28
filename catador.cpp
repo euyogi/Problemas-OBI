@@ -5,7 +5,7 @@
 using namespace std;
 
 struct BIT {
-    vint bt;
+    vector<int> bt;
 
     BIT(int n) : bt(n + 1) {}
 
@@ -30,6 +30,7 @@ signed main() {
     for (int i = 1, x; i <= n; ++i) {
         cin >> x;
 
+        // Point update
         bt.add(i, x);
         bt.add(i-1, -x);
     }
@@ -37,13 +38,17 @@ signed main() {
     for (int i = 0, j; i < m; ++i) {
         cin >> j;
 
+        // Point query
         int range = max(bt.rsq(j), 0);
+
+        // Range update
         bt.add(min(j + range, n), -1);
         bt.add(max(j - range - 1, 0), 1);
     }
 
     int sum = 0;
     for (int i = 1; i <= n; ++i)
+        // Point query
         sum += max(bt.rsq(i), 0);
 
     cout << sum << '\n';

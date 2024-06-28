@@ -14,6 +14,7 @@ signed main() {
     cin >> p_Bh >> ig >> p_Bm >> c_Ah >> ig >> c_Am;
     // 10:00 22:00 10:00 18:00
 
+    // Convertendo para minutos
     int p_A = 60 * p_Ah + p_Am;
     int c_B = 60 * c_Bh + c_Bm;
     int p_B = 60 * p_Bh + p_Bm;
