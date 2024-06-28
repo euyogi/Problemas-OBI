@@ -1,9 +1,12 @@
+// 2014 Fase 2
+
 #include <bits/stdc++.h>
 
 using namespace std;
 
 constexpr int DAY = 24 * 60;
-int main() {
+
+signed main() {
     int p_Ah, c_Bh, p_Bh, c_Ah;
     int p_Am, c_Bm, p_Bm, c_Am;
     char ig;
