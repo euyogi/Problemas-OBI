@@ -19,11 +19,11 @@ ll comprimento(const pll& a, const pll& b) { return (a.x - b.x) * (a.x - b.x) + 
 
 ll produto_interno(const pll& a, const pll& b) { return a.x * b.x + a.y * b.y; }
 
-// AxB = ||a||||b||cos(x)
-// se AxB == 0, perpendicular
-// se AxB > 0, agudo
-// se AxB < 0, obtuso
-// se |AxB| == ||a||||b||, colinearidade
+// <a, b> = ||a||.||b||.cos(x)
+// se <a, b> == 0, perpendicular
+// se <a, b> > 0, agudo
+// se <a, b> < 0, obtuso
+// se |<a, b>| == ||a||.||b||, colinearidade
 
 bool colinear(pll a, pll b, pll c) {
     sub(b, a);
