@@ -1,4 +1,4 @@
-// 2015 Fase 2
+// 2015 Fase 2: Catador (https://olimpiada.ic.unicamp.br/pratique/ps/2015/f2/catador/)
 
 #include <bits/stdc++.h>
 using namespace std;
