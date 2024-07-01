@@ -1,7 +1,6 @@
 // 2015 Fase 2
 
 #include <bits/stdc++.h>
-
 using namespace std;
 
 map<char, int> VALUE_OF {

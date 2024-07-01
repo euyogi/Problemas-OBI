@@ -1,7 +1,6 @@
 // 2014 Fase 2
 
 #include <bits/stdc++.h>
-
 using namespace std;
 
 constexpr int DAY = 24 * 60;
