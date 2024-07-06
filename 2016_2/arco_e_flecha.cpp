@@ -1,4 +1,5 @@
-// 2016 Fase 2: Arco e Flecha (https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/arco-online/) (60-80/100)
+// 2016 Fase 2: Arco e Flecha (https://olimpiada.ic.unicamp.br/pratique/ps/2016/f2/arco-online/)
+// 60-80/100 Pontos
 
 #include <bits/stdc++.h>
 using namespace std;
