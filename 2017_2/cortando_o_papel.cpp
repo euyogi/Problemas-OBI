@@ -5,7 +5,7 @@ using namespace std;
 
 #define all(xs) xs.begin(), xs.end()
 
-int main() {
+signed main() {
     cin.tie(nullptr)->sync_with_stdio(false);
     int n;
     cin >> n;

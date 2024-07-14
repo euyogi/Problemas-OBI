@@ -24,7 +24,7 @@ vii dijkstra(vvpii& g, int s) {
     return dists;
 }
 
-int main() {
+signed main() {
     int n, m;
     cin >> n >> m;
 
