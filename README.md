@@ -1,5 +1,7 @@
 # Problemas OBI
 
+<img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=header">
+
 Esse repositório contém as soluções de alguns problemas da Olimpíada Brasileira de Informática (OBI).
 
 ## Problemas
@@ -38,3 +40,4 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 - [Elevador](/2018_2/elevador.cpp)
 - [Sequência](/2018_2/sequencia.cpp)
 
+<img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
