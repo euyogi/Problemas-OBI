@@ -1,4 +1,4 @@
-// 2007 Fase 2: Pizza (https://neps.academy/br/exercise/299)
+// 2007 Fase 2: Pizza (https://olimpiada.ic.unicamp.br/pratique/p2/2007/f2/pizza/)
 
 #include <bits/stdc++.h>
 using namespace std;
