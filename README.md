@@ -47,5 +47,6 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 ### 2018 - Fase 2
 - [Elevador](/2018_2/elevador.cpp)
 - [Sequência](/2018_2/sequencia.cpp)
+- [Fuga](/2018_2/fuga.cpp)
 
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
