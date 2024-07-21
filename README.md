@@ -49,4 +49,8 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 - [Sequência](/2018_2/sequencia.cpp)
 - [Fuga](/2018_2/fuga.cpp)
 
+### 2019 - Fase 2
+- [Robô marciano](/2019_2/robo_marciano.cpp)
+- [Supermercado](/2019_2/supermercado.cpp)
+
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
