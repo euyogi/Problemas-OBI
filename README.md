@@ -52,5 +52,12 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 ### 2019 - Fase 2
 - [Robô marciano](/2019_2/robo_marciano.cpp)
 - [Supermercado](/2019_2/supermercado.cpp)
+- [Matriz Super-legal](/2019_2/matriz_superlegal.cpp)
+
+### 2020 - Fase 2
+- [Dona Formiga](/2020_2/dona_formiga.cpp)
+- [Estrada](/2020_2/estrada.cpp)
+- [Fotografia](/2020_2/fotografia.cpp)
+- ~[Caixeiro Viajante](/2020_2/caixeiro_viajante.cpp)~
 
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
