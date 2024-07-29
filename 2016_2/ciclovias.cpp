@@ -30,7 +30,7 @@ signed main() {
         memo = 1;
         for (int v : g[u]) {
             if (v <= p) break;
-            memo = max(self,(self, v, u) + 1, memo);
+            memo = max(self(self, v, u) + 1, memo);
         }
         return memo;
     };

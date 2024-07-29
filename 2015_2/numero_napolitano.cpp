@@ -16,11 +16,11 @@ signed main() {
     for (int i = 0; i < s.size(); ++i)
         values[i] = VALUE_OF[s[i]];
 
-    unordered_map<char, int> lasts; // Última posição de cada letra
-    vector<int> nexts(s.size(), s.size()); // Posição do próximo maior
+    unordered_map<char, int> lasts; // última posição de cada letra
+    vector<int> nexts(s.size(), s.size()); // posição do próximo maior
 
     for (int i = s.size() - 1; i >= 0; --i) {
-        // P/ cada letra maior que eu o próximo vai ser o menor
+        // p/ cada letra maior que eu o próximo vai ser o menor
         // entre o próximo atual e a última posição dessa letra
         for (auto [c, j] : lasts)
             if (values[i] < VALUE_OF[c])
@@ -31,7 +31,7 @@ signed main() {
 
     int ans = 0;
     for (int i = 0; i < s.size(); ++i) {
-        if (nexts[i] != s.size()) // Tem letra maior que eu
+        if (nexts[i] != s.size()) // tem letra maior que eu
             values[nexts[i]] -= values[i];
         else
             ans += values[i];

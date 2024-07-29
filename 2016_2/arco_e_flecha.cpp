@@ -26,7 +26,7 @@ signed main() {
 
         dist = x * x + y * y;
 
-        // + 1 because we need to count equal distance arrows
+        // +1 porque precisamos contar flechas com mesma distância
         penalidade_anterior = rbt.order_of_key(dist + 1);
         rbt.insert(dist);
         cout << penalidade_anterior << '\n';

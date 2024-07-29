@@ -3,13 +3,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-using vii = vector<int>;
+using vi = vector<int>;
 using pii = pair<int, int>;
 using vpii = vector<pii>;
 using vvpii = vector<vpii>;
 
-vii dijkstra(vvpii& g, int s) {
-    vii dists(g.size(), INT_MAX);
+vi dijkstra(vvpii& g, int s) {
+    vi dists(g.size(), INT_MAX);
     priority_queue<pii, vpii, greater<>> pq;
     pq.emplace(0, s);
     dists[s] = 0;

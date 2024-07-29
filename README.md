@@ -58,6 +58,6 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 - [Dona Formiga](/2020_2/dona_formiga.cpp)
 - [Estrada](/2020_2/estrada.cpp)
 - [Fotografia](/2020_2/fotografia.cpp)
-- ~[Caixeiro Viajante](/2020_2/caixeiro_viajante.cpp)~
+- [Caixeiro Viajante](/2020_2/caixeiro_viajante.cpp)
 
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
