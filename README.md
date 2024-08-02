@@ -14,6 +14,7 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 
 ### 2011 - Fase 2
 - [Balé](/2011_2/bale.cpp)
+- [Escalonamento Ótimo](/2011_2/escalonamento_otimo.cpp)
 - [Gincana](/2011_2/gincana.cpp)
 
 ### 2014 - Fase 1
