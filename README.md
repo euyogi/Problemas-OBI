@@ -66,5 +66,9 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 - [Passatempo](/2021_2/passatempo.cpp)
 - [Retângulo](/2021_2/retangulo.cpp)
 - [Sanduíche](/2021_2/sanduiche.cpp)
+- [Lista Palíndroma](/2021_2/lista_palindroma.cpp)
+- [Mínimo e máximo](/2021_2/minimo_e_maximo.cpp)
+- [Poligrama](/2021_2/poligrama.cpp)
+- [Senha da Vó Zinha](/2021_2/senha_da_vo_zinha.cpp)
 
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
