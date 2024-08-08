@@ -48,28 +48,34 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 
 ### 2018 - Fase 2
 - [Elevador](/2018_2/elevador.cpp)
-- [Sequência](/2018_2/sequencia.cpp)
 - [Fuga](/2018_2/fuga.cpp)
+- [Sequência](/2018_2/sequencia.cpp)
 
 ### 2019 - Fase 2
+- [Matriz Super-legal](/2019_2/matriz_superlegal.cpp)
 - [Robô marciano](/2019_2/robo_marciano.cpp)
 - [Supermercado](/2019_2/supermercado.cpp)
-- [Matriz Super-legal](/2019_2/matriz_superlegal.cpp)
 
 ### 2020 - Fase 2
+- [Caixeiro Viajante](/2020_2/caixeiro_viajante.cpp)
 - [Dona Formiga](/2020_2/dona_formiga.cpp)
 - [Estrada](/2020_2/estrada.cpp)
 - [Fotografia](/2020_2/fotografia.cpp)
-- [Caixeiro Viajante](/2020_2/caixeiro_viajante.cpp)
 
 ### 2021 - Fase 2
 - [Duplas de tênis](/2021_2/duplas_de_tenis.cpp)
-- [Passatempo](/2021_2/passatempo.cpp)
-- [Retângulo](/2021_2/retangulo.cpp)
-- [Sanduíche](/2021_2/sanduiche.cpp)
 - [Lista Palíndroma](/2021_2/lista_palindroma.cpp)
 - [Mínimo e máximo](/2021_2/minimo_e_maximo.cpp)
+- [Passatempo](/2021_2/passatempo.cpp)
 - [Poligrama](/2021_2/poligrama.cpp)
+- [Retângulo](/2021_2/retangulo.cpp)
+- [Sanduíche](/2021_2/sanduiche.cpp)
 - [Senha da Vó Zinha](/2021_2/senha_da_vo_zinha.cpp)
+
+### 2022 - Fase 2
+- [Pirâmide](/2022_2/piramide.cpp)
+- [Subcadeias](/2022_2/subcadeias.cpp)
+- [Tanque de combustível](/2022_2/tanque_de_combustivel.cpp)
+- [Viagem](/2022_2/viagem.cpp)
 
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
