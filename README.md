@@ -44,6 +44,7 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 
 ### 2017 - Fase 3
 - [Arranha Céu](/2017_3/arranha_ceu.cpp)
+- [Taxa](/2017_3/taxa.cpp)
 
 ### 2018 - Fase 2
 - [Elevador](/2018_2/elevador.cpp)

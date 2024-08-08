@@ -1,4 +1,4 @@
-// 2011 Fase 2: Escalonamento Ótimo (https://neps.academy/br/exercise/331)
+// 2011 Fase 2: Escalonamento Ótimo (https://olimpiada.ic.unicamp.br/pratique/p2/2011/f2/escalona/)
 
 #include <bits/stdc++.h>
 using namespace std;
