@@ -79,6 +79,7 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 - [Viagem](/2022_2/viagem.cpp)
 
 ### 2023 - Fase 2
+- [Barcos da NLogônia](/2023_2/barcos_da_nlogonia.cpp)
 - [Grupos de Trabalho](/2023_2/grupos_de_trabalho.cpp)
 - [Intervalo Distinto](/2023_2/intervalo_distinto.cpp)
 - [Prefixo](/2023_2/prefixo.cpp)
