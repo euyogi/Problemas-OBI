@@ -78,4 +78,9 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 - [Tanque de combustível](/2022_2/tanque_de_combustivel.cpp)
 - [Viagem](/2022_2/viagem.cpp)
 
+### 2023 - Fase 2
+- [Grupos de Trabalho](/2023_2/grupos_de_trabalho.cpp)
+- [Intervalo Distinto](/2023_2/intervalo_distinto.cpp)
+- [Prefixo](/2023_2/prefixo.cpp)
+
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
