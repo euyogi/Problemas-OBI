@@ -80,8 +80,11 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 
 ### 2023 - Fase 2
 - [Barcos da NLogônia](/2023_2/barcos_da_nlogonia.cpp)
+- [Brincadeira de Roda](/2023_2/brincadeira_de_roda.cpp)
+- [Fortunas](/2023_2/fortunas.cpp)
 - [Grupos de Trabalho](/2023_2/grupos_de_trabalho.cpp)
 - [Intervalo Distinto](/2023_2/intervalo_distinto.cpp)
 - [Prefixo](/2023_2/prefixo.cpp)
+- [UPA](/2023_2/upa.cpp)
 
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
