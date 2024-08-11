@@ -87,4 +87,7 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 - [Prefixo](/2023_2/prefixo.cpp)
 - [UPA](/2023_2/upa.cpp)
 
+### 2023 - Fase 3
+- [Metrônibus](/2023_3/metronibus.cpp)
+
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
