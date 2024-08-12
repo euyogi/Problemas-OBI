@@ -35,6 +35,7 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 - [Gincana](/2016_2/gincana.cpp)
 - [Jardim de Infância](/2016_2/jardim_de_infancia.cpp)
 - [Po que mão](/2016_2/po_que_mao.cpp)
+- [Quase Primo](/2016_2/quase_primo.cpp)
 - [Times](/2016_2/times.cpp)
 
 ### 2017 - Fase 2
