@@ -2,7 +2,12 @@
 
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=header">
 
-Esse repositório contém as soluções de alguns problemas da Olimpíada Brasileira de Informática (OBI), a maioria é do nível sênior (universitário), mas tem de outros níveis também, porém só as separei por ano e fase.
+Esse repositório contém as soluções de alguns problemas da Olimpíada Brasileira de Informática (OBI),
+a maioria é do nível sênior (universitário), mas tem de outros níveis também, porém só as soluções só
+estão separadas por ano e fase, não por nível.
+
+Nas soluções eu coloquei o link do problema no site da OBI, mas se você quiser submeter, provavelmente vai ser
+melhor pelo [NEPS](https://neps.academy/br/dashboard).
 
 ## Problemas
 
@@ -52,6 +57,9 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 - [Elevador](/2018_2/elevador.cpp)
 - [Fuga](/2018_2/fuga.cpp)
 - [Sequência](/2018_2/sequencia.cpp)
+
+### 2018 - Fase 3
+- [Baldes](/2018_3/baldes.cpp)
 
 ### 2019 - Fase 2
 - [Matriz Super-legal](/2019_2/matriz_superlegal.cpp)
