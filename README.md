@@ -25,6 +25,7 @@ Esse repositório contém as soluções de alguns problemas da Olimpíada Brasil
 
 ### 2015 - Fase 2
 - [Catador](/2015_2/catador.cpp)
+- [Macacos me Mordam!](/2015_2/macacos_me_mordam.cpp)
 - [Número Napolitano](/2015_2/numero_napolitano.cpp)
 - [Úsina](/2015_2/usina.cpp)
 
