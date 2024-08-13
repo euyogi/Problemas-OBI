@@ -3,11 +3,11 @@
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=header">
 
 Esse repositório contém as soluções de alguns problemas da Olimpíada Brasileira de Informática (OBI),
-a maioria é do nível sênior (universitário), mas tem de outros níveis também, porém só as soluções só
+a maioria é do nível sênior (universitário), mas tem de outros níveis também, porém as soluções só
 estão separadas por ano e fase, não por nível.
 
-Nas soluções eu coloquei o link do problema no site da OBI, mas se você quiser submeter, provavelmente vai ser
-melhor pelo [NEPS](https://neps.academy/br/dashboard).
+Nas soluções eu coloquei o link do problema no site da [OBI](https://olimpiada.ic.unicamp.br/passadas/),
+mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://neps.academy/br/dashboard).
 
 ## Problemas
 
@@ -95,6 +95,7 @@ melhor pelo [NEPS](https://neps.academy/br/dashboard).
 - [Grupos de Trabalho](/2023_2/grupos_de_trabalho.cpp)
 - [Intervalo Distinto](/2023_2/intervalo_distinto.cpp)
 - [Prefixo](/2023_2/prefixo.cpp)
+- [Startup](/2023_2/startup.cpp)
 - [UPA](/2023_2/upa.cpp)
 
 ### 2023 - Fase 3
