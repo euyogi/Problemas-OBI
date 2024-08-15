@@ -56,6 +56,7 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 ### 2018 - Fase 2
 - [Elevador](/2018_2/elevador.cpp)
 - [Fuga](/2018_2/fuga.cpp)
+- [Relógios](/2018_2/relogios.cpp)
 - [Sequência](/2018_2/sequencia.cpp)
 
 ### 2018 - Fase 3
@@ -88,6 +89,10 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 - [Tanque de combustível](/2022_2/tanque_de_combustivel.cpp)
 - [Viagem](/2022_2/viagem.cpp)
 
+### 2022 - Fase 3
+- [Caravana](/2022_3/caravana.cpp)
+- [Dígitos](/2022_3/digitos.cpp)
+
 ### 2023 - Fase 2
 - [Barcos da NLogônia](/2023_2/barcos_da_nlogonia.cpp)
 - [Brincadeira de Roda](/2023_2/brincadeira_de_roda.cpp)
@@ -99,8 +104,7 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 - [UPA](/2023_2/upa.cpp)
 
 ### 2023 - Fase 3
-- [Caravana](/2023_3/caravana.cpp)
-- [Dígitos](/2023_3/digitos.cpp)
 - [Metrônibus](/2023_3/metronibus.cpp)
+- [Pirâmide](/2023_3/piramide.cpp)
 
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
