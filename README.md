@@ -105,6 +105,8 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 
 ### 2023 - Fase 3
 - [Metrônibus](/2023_3/metronibus.cpp)
+- [Oficina Mecânica](/2023_3/oficina_mecanica.cpp)
 - [Pirâmide](/2023_3/piramide.cpp)
+- [Transportes](/2023_3/transportes.cpp)
 
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
