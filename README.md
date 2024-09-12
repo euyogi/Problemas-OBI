@@ -109,4 +109,10 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 - [Pirâmide](/2023_3/piramide.cpp)
 - [Transportes](/2023_3/transportes.cpp)
 
+### 2024 - Fase 2
+- [Alfabeto Alienígena](/2024_2/alfabeto_alienigena.cpp)
+- [Cubo Preto](/2024_2/cubo_preto.cpp)
+- [Dança de Formatura](/2024_2/danca_de_formatura.cpp)
+- [Jogo do Poder](/2024_2/jogo_do_poder.cpp)
+
 <img alt="Header" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1188ff&height=100&section=footer">
