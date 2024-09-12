@@ -92,6 +92,7 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 ### 2022 - Fase 3
 - [Caravana](/2022_3/caravana.cpp)
 - [Dígitos](/2022_3/digitos.cpp)
+- [Quadrado](/2022_3/quadrado.cpp)
 
 ### 2023 - Fase 2
 - [Barcos da NLogônia](/2023_2/barcos_da_nlogonia.cpp)
