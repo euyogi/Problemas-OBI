@@ -105,10 +105,12 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 - [UPA](/2023_2/upa.cpp)
 
 ### 2023 - Fase 3
+- [Fast-Food](/2023_3/fast-food.cpp)
 - [Metrônibus](/2023_3/metronibus.cpp)
 - [Oficina Mecânica](/2023_3/oficina_mecanica.cpp)
 - [Pirâmide](/2023_3/piramide.cpp)
 - [Transportes](/2023_3/transportes.cpp)
+- [Trio de Bonecas](/2023_3/trio_de_bonecas.cpp)
 
 ### 2024 - Fase 2
 - [Alfabeto Alienígena](/2024_2/alfabeto_alienigena.cpp)
