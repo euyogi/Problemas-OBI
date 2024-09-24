@@ -91,7 +91,9 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 
 ### 2022 - Fase 3
 - [Caravana](/2022_3/caravana.cpp)
+- [Construção de Rodovia](/2022_3/construcao_de_rodovia.cpp)
 - [Dígitos](/2022_3/digitos.cpp)
+- [Dona Minhoca](/2022_3/dona_minhoca.cpp)
 - [Quadrado](/2022_3/quadrado.cpp)
 
 ### 2023 - Fase 2

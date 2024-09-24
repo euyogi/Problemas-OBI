@@ -9,7 +9,8 @@ using namespace std;
 // linha vai ser a o da linha anterior + a
 // diferença entre o primeiro da linha anterior
 // e da linha anterior a anterior vezes n / 2 + 1
-// eu chequei até n = 40 e funcionou
+// eu chequei até n = 40 e parece que funcionou mas tá
+// meio meme
 
 signed main() {
     int n, c = 1;
