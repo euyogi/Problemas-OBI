@@ -1,4 +1,4 @@
-// 2023 Fase 3: Dígitos (https://neps.academy/br/exercise/2168)
+// 2022 Fase 3: Dígitos (https://neps.academy/br/exercise/2168)
 
 #include <bits/stdc++.h>
 using namespace std;

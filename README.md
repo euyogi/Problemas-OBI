@@ -83,6 +83,13 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 - [Sanduíche](/2021_2/sanduiche.cpp)
 - [Senha da Vó Zinha](/2021_2/senha_da_vo_zinha.cpp)
 
+### 2021 - Fase 3
+- [Dona Minhoca](/2021_3/dona_minhoca.cpp)
+- [Falha de eegurança](/2021_3/falha_de_seguranca.cpp)
+- [Ogro](/2021_3/ogro.cpp)
+- [Teclado](/2021_3/teclado.cpp)
+- [Festa olímpica](/2021_3/festa_olimpica.cpp)
+
 ### 2022 - Fase 2
 - [Pirâmide](/2022_2/piramide.cpp)
 - [Subcadeias](/2022_2/subcadeias.cpp)
