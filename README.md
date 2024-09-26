@@ -7,7 +7,8 @@ a maioria é do nível sênior (universitário), mas tem de outros níveis tamb�
 estão separadas por ano e fase, não por nível.
 
 Nas soluções eu coloquei o link do problema no site da [OBI](https://olimpiada.ic.unicamp.br/passadas/),
-mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://neps.academy/br/dashboard).
+mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://neps.academy/br/dashboard)
+porque o site da OBI costuma não processar as submissões e não tem todos os anos.
 
 ## Problemas
 
@@ -73,6 +74,12 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 - [Estrada](/2020_2/estrada.cpp)
 - [Fotografia](/2020_2/fotografia.cpp)
 
+### 2020 - Fase 3
+- [Aplicativo de calorias](/2020_3/aplicativo_de_calorias.cpp)
+- [Jogo do Preto e Branco](/2020_3/jogo_do_preto_e_branco.cpp)
+- [Torre de dados](/2020_3/torre_de_dados.cpp)
+- [Trem da mina](/2020_3/trem_da_mina.cpp)
+
 ### 2021 - Fase 2
 - [Duplas de tênis](/2021_2/duplas_de_tenis.cpp)
 - [Lista Palíndroma](/2021_2/lista_palindroma.cpp)
@@ -85,7 +92,7 @@ mas se você quiser submeter, provavelmente vai ser melhor pelo [NEPS](https://n
 
 ### 2021 - Fase 3
 - [Dona Minhoca](/2021_3/dona_minhoca.cpp)
-- [Falha de eegurança](/2021_3/falha_de_seguranca.cpp)
+- [Falha de segurança](/2021_3/falha_de_seguranca.cpp)
 - [Ogro](/2021_3/ogro.cpp)
 - [Teclado](/2021_3/teclado.cpp)
 - [Festa olímpica](/2021_3/festa_olimpica.cpp)
